@@ -142,7 +142,7 @@ For production, plug into Doma's real event API or contract logs.
 - Track: 3 – Bots & Event Subscriptions
 - Team: Solo developer
 - Telegram Bot: [@DomaPulseBot](https://t.me/DomaPulseBot)
-- GitHub: [github.com/your-username/doma-pulsebot](https://github.com/your-username/doma-pulsebot)
+- GitHub: [github.com/KISHU-PT/doma-pulsebot](https://github.com/KISHU-PT/doma-pulsebot)
 - Twitter: [@DocChain25](https://twitter.com/DocChain25)
 
 ---
